@@ -10,3 +10,11 @@ Focus areas:
 - Troubleshooting mindset
 
 This portfolio is continuously updated as I learn.
+## Completed Courses
+
+- **IT Fundamentals** – :contentReference[oaicite:0]{index=0}  
+  Focus areas:
+  - Computer hardware & operating systems
+  - Networking fundamentals
+  - Basic security concepts
+  - Troubleshooting mindset
